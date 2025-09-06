@@ -1,0 +1,12 @@
+{
+  "routines": [
+    {
+      "name": "初級香功",
+      "url": "https://raw.githubusercontent.com/solracuihc/stretch-app/main/初級香功.json"
+    },
+    {
+      "name": "中級香功",
+      "url": "https://raw.githubusercontent.com/solracuihc/stretch-app/main/初級香功.json"
+    }
+  ]
+}
