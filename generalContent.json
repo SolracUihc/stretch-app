@@ -1,24 +1,24 @@
 {
   "landingPage": {
-    "headerTitle": "Welcome to Xiang Gong Qigong",
-    "headerSubtitle": "Select a routine to begin your practice.",
-    "errorMessageId": "error-message"
+    "headerTitle": "歡迎體驗香功氣功",
+    "headerSubtitle": "選擇一個練習開始您的修行。",
+    "errorMessageId": "錯誤訊息"
   },
   "exercisePage": {
-    "backButtonLabel": "Back to Routines",
-    "routineTitlePlaceholder": "Qigong Routine",
-    "metadataSummary": "Practice Overview",
-    "routineSectionTitle": "Routine",
-    "startRoutineButton": "Start Routine",
-    "prevPostureButton": "Previous",
-    "nextPostureButton": "Next",
-    "postureSectionTitle": "Current Posture",
-    "timerSectionTitle": "Timer",
-    "startTimerButton": "Start",
-    "pauseTimerButton": "Pause",
-    "resetTimerButton": "Reset",
-    "errorMessageId": "error-message-exercise",
-    "completionMessage": "Routine completed! Great job!"
+    "backButtonLabel": "返回練習清單",
+    "routineTitlePlaceholder": "氣功練習",
+    "metadataSummary": "練習概覽",
+    "routineSectionTitle": "練習",
+    "startRoutineButton": "開始練習",
+    "prevPostureButton": "上一個",
+    "nextPostureButton": "下一個",
+    "postureSectionTitle": "當前姿勢",
+    "timerSectionTitle": "計時器",
+    "startTimerButton": "開始",
+    "pauseTimerButton": "暫停",
+    "resetTimerButton": "重置",
+    "errorMessageId": "練習錯誤訊息",
+    "completionMessage": "練習完成！幹得好！"
   },
   "graphics": {
     "metadataPlaceholderImage": "https://www.hesa.org.tw/images/xiangkong_pic/xiangkong_step0.gif",
