@@ -1,0 +1,27 @@
+{
+  "landingPage": {
+    "headerTitle": "Welcome to Xiang Gong Qigong",
+    "headerSubtitle": "Select a routine to begin your practice.",
+    "errorMessageId": "error-message"
+  },
+  "exercisePage": {
+    "backButtonLabel": "Back to Routines",
+    "routineTitlePlaceholder": "Qigong Routine",
+    "metadataSummary": "Practice Overview",
+    "routineSectionTitle": "Routine",
+    "startRoutineButton": "Start Routine",
+    "prevPostureButton": "Previous",
+    "nextPostureButton": "Next",
+    "postureSectionTitle": "Current Posture",
+    "timerSectionTitle": "Timer",
+    "startTimerButton": "Start",
+    "pauseTimerButton": "Pause",
+    "resetTimerButton": "Reset",
+    "errorMessageId": "error-message-exercise",
+    "completionMessage": "Routine completed! Great job!"
+  },
+  "graphics": {
+    "metadataPlaceholderImage": "https://www.hesa.org.tw/images/xiangkong_pic/xiangkong_step0.gif",
+    "posturePlaceholderImage": "https://www.hesa.org.tw/images/xiangkong_pic/xiangkong_step0.gif"
+  }
+}
